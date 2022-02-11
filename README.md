@@ -1,4 +1,6 @@
-# spark_foundation_task_2
+# THE SPARK FOUNDATION
+
+# TASK 2
 
 # Basic Banking Application
 
@@ -54,5 +56,4 @@
 ------------------------------------------
 
 
-### Project Explanation 
-Link https://www.youtube.com/watch?v=uBfr7uRkRb0
+
